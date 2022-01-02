@@ -1,3 +1,5 @@
+React.js Todo Application which uses Redux Toolkit and a backend CRUD Express Server. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
